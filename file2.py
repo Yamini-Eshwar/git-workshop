@@ -1,1 +1,1 @@
-l1 = ['apple', 'microsoft']
+l1 = ['apple', 'microsoft', 'JP Morgan']
